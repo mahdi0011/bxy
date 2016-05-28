@@ -226,8 +226,7 @@ function create_config( )
     "admin",
     "Plugins",
     "XY",
-    "Spam",
-    "Join"
+    "Spam"
     },
     sudo_users = {188899122,190142886},--Sudo users
     disabled_channels = {},
